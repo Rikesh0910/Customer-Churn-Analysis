@@ -37,15 +37,15 @@ Analyze customer demographics, subscription details, services, payment methods, 
 
 ### Customer Churn Overview
 
-![Customer Churn Overview](Images/Customer_Churn_Analysis_page-0001.jpg)
+![Customer Churn Overview](Images/churn_analysis_page-0001.jpg)
 
 ### Churn Prediction
 
-![Churn Prediction](Images/Customer_Churn_Analysis_page-0002.jpg)
+![Churn Prediction](Images/churn_analysis_page-0002.jpg)
 
 ### Churn Reasons
 
-![Churn Reasons](Images/Customer_Churn_Analysis_page-0003.jpg)
+![Churn Reasons](Images/churn_analysis_page-0003.jpg)
 
 ## Key Findings
 
